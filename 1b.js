@@ -12,4 +12,7 @@ function filterByLength(arr, num) {
     }
     return result;
   }
+   let n = ["banana","orange","pineapple"];
+
+   console.log(filterByLength(n,7));
   
